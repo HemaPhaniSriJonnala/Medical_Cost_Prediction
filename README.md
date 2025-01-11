@@ -1,6 +1,6 @@
 # Medical Cost Prediction 
 
-Projectto predict the medical cost of an individual using Machine Learning
+Project to predict the medical cost of an individual using Machine Learning
 
 This project aims to predict medical insurance costs based on various factors such as age, sex, BMI, children, smoking habits, and region. The notebook explores the dataset through detailed exploratory data analysis (EDA), feature engineering, and builds machine learning models using optimized hyperparameters to accurately predict medical costs. The final model is selected based on performance metrics, and the feature importance is examined using SHAP values.
 
